@@ -1,0 +1,31 @@
+{
+  "name": "geolocation-coordinate",
+  "version": "0.1.0",
+  "description": "ES6 class to simplify formatting of Geolocation coordinates",
+  "keywords": [
+    "geolocation",
+    "latlng",
+    "latitude",
+    "longitude",
+    "format",
+    "decimal",
+    "dms"
+  ],
+  "homepage": "https://github.com/joelcolucci/geolocation-coordinate",
+  "bugs": {
+    "url": "https://github.com/joelcolucci/geolocation-coordinate/issues"
+  },
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Joel Colucci",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-jest": "^23.4.2",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^5.2.0",
+    "eslint-config-google": "^0.9.1",
+    "jest": "^23.5.0"
+  }
+}
