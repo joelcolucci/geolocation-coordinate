@@ -10,7 +10,7 @@ describe('Coordinate properties', () => {
   test('degrees', () => {
     let degrees = coord.degrees;
 
-    expect(degrees).toEqual(59);
+    expect(degrees).toEqual(59.2349887712);
   });
 
   test('minutes', () => {
