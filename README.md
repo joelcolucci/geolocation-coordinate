@@ -52,7 +52,7 @@ Returns coordinate as a pretty string
 | Argument | Description | Example|
 | ------- | ----- | ----------- |
 | Default| Returns string in decimal degrees | 59.235° North |
-| 'ddd' | Returns string in decimal degrees format | 59.235° North|
+| 'dd' | Returns string in decimal degrees format | 59.235° North|
 | 'ddm' | Returns string in degree decimal minute format | 59° 14.099' North |
 | 'dms' | Returns string in degree minutes seconds | 59° 14' 6" North|
 
