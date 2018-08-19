@@ -1,6 +1,6 @@
 {
   "name": "geolocation-coordinate",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "ES6 class to simplify formatting of Geolocation coordinates",
   "keywords": [
     "geolocation",
