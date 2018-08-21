@@ -1,4 +1,4 @@
-# geolocation-coordinate
+# geolocation-coordinate [![NPM version](https://img.shields.io/npm/v/geolocation-coordinate.svg)](https://www.npmjs.com/package/geolocation-coordinate)
 > ES6 class to simplify formatting of Geolocation coordinates
 
 ## Installation
